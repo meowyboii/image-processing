@@ -1,12 +1,12 @@
-# image-processing
+# Image Processing
 
 Image processing operations in Java
 
-# Operations
+## Operations
 
-Image Segmentation
-Image Flip
-RGB Channel Extraction
-Grayscale Methods
-Histogram
-Histogram Stretching
+- Image Segmentation
+- Image Flip
+- RGB Channel Extraction
+- Grayscale Methods
+- Histogram
+- Histogram Stretching
